@@ -1,1 +1,2 @@
 # XRPL
+We do not currently have any XRPL code, as Mozrt development resources are fully engaged with making coded connections into the global banking ecosystem. We would use the proceeds of the grant to allow our teams time to focus on the XRPL, as well as execute on our go-to-market plan with the XRPL integrated into our systems and core banking connections. Please find our current API at https://app.swaggerhub.com/apis/WireFX/wirefx/1. 
